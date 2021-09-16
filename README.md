@@ -1,2 +1,2 @@
 # spa
-Single Page App -  done in vanilla JavaScript, with basic DOM manipulation.
+Single Page App -  mini project done in vanilla JavaScript, with basic DOM manipulation.
